@@ -31,3 +31,4 @@
 - [.config](/.config) - про конфигурацию
 - [.build](/.build) - скрипты именно по сборке
 - [.github/CODEOWNERS](/.github/CODEOWNERS) - информация о владельцах кода, см. в самом файле
+- [.github/workflows](/.github/workflows) - CI/CD + все что связано с проверками, сюда не лезьте и зовите пианиста
